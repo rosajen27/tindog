@@ -4,4 +4,4 @@ Homepage of an app that lets you "Find other dogs & their owners around you" in 
 
 Deployed Website: https://rosajen27.github.io/tindog/
 
-![tindog](./Capture.JPG)
+![tindog](./images/Capture.JPG)
