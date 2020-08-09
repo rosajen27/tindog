@@ -6,7 +6,7 @@ Start up landing page for a fictional application named TinDog that allows the u
 
 Deployed Website: https://rosajen27.github.io/tindog/
 
-![tindog](./images/Capture.JPG)
+![tindog](./images/Capture.png)
 
 ## Built With
 
