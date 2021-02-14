@@ -1,6 +1,6 @@
-# TinDog
+# 🐶 TinDog
 
-Start up landing page for a fictional application named TinDog that allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder. Challenge made by The Complete 2020 Web Development Bootcamp by Angela Yu.
+Start up landing page for a fictional application named TinDog. TinDog allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder.
 
 ## Deployment
 
@@ -10,9 +10,9 @@ Deployed Website: https://rosajen27.github.io/tindog/
 
 ## Built With
 
-  - HTML
-  - CSS
-  - Bootstrap
+  * HTML
+  * CSS
+  * Bootstrap
 
 ## Authors
 
@@ -26,7 +26,7 @@ Deployed Website: https://rosajen27.github.io/tindog/
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2020 Jennifer Rosa
+Copyright (c) 2021 Jennifer Rosa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -48,4 +48,4 @@ SOFTWARE.
 
 ## Acknowledgments
 
-  - The Complete 2020 Web Development Bootcamp by Angela Yu
+  * The Complete 2020 Web Development Bootcamp by Angela Yu
